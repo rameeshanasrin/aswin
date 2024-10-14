@@ -18,4 +18,4 @@ pyplot.show()
 for a in range(1000):
 	pyplot.scatter(a,float(query('MEAS:0?')))
 	pyplot.pause(0.02)
-
+#remote command
